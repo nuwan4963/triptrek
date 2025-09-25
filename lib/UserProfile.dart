@@ -11,18 +11,18 @@ class UserProfile {
     this.profileImageUrl,
   });
   
-  // UserProfile.fromJson(Map<String, dynamic> json)
-  //   : name = json['name'],
-  //     age = json['age'],
-  //     email = json['email'],
-  //     profileImageUrl = json['profileImageUrl'];
+  UserProfile.fromJson(Map<String, dynamic> json)
+    : name = json['name'],
+      age = json['age'],
+      email = json['email'],
+      profileImageUrl = json['profileImageUrl'];
   
-  // Map<String, dynamic> toJson() => {
-  //   'name': name,
-  //   'age': age,
-  //   'email': email,
-  //   'profileImageUrl': profileImageUrl,
-  // };
+  Map<String, dynamic> toJson() => {
+    'name': name,
+    'age': age,
+    'email': email,
+    'profileImageUrl': profileImageUrl,
+  };
   
   @override
   String toString() => 'UserProfile(name: $name, age: $age, email: $email)';
