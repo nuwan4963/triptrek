@@ -1,10 +1,10 @@
-import 'package:triptrek/EmergencyInfo.dart';
-import 'package:triptrek/ExpenseTracker.dart';
-import 'package:triptrek/Itinerary.dart';
-import 'package:triptrek/OfficeMap.dart';
-import 'package:triptrek/Preference.dart';
-import 'package:triptrek/TravelMode.dart';
-import 'package:triptrek/UserProfile.dart';
+import 'package:triptrek/models/EmergencyInfo.dart';
+import 'package:triptrek/models/ExpenseTracker.dart';
+import 'package:triptrek/models/Itinerary.dart';
+import 'package:triptrek/models/OfficeMap.dart';
+import 'package:triptrek/models/Preference.dart';
+import 'package:triptrek/models/TravelMode.dart';
+import 'package:triptrek/models/UserProfile.dart';
 
 class TravelAppController {
   UserProfile userProfile;
