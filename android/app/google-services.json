@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135300545453",
+    "project_id": "triptrek-8b547",
+    "storage_bucket": "triptrek-8b547.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135300545453:android:4ee3ae5a551c2fd0983f24",
+        "android_client_info": {
+          "package_name": "com.example.triptrek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxb1LebvDRwrviYBTCFybH7snOH9o0Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
