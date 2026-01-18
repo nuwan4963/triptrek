@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -52,3 +53,5 @@ class TripTrekApp extends StatelessWidget {
     );
   }
 }
+=======
+>>>>>>> 50c1b22384adbc94271ae3469f2ff34002fac1dd
